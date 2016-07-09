@@ -24,7 +24,7 @@ public class A {
          Hashtable map = new Hashtable();
          map.put("K1", 23);
          map.put(11, "Hello");
-         System.out.println(map.get(11));
+         Systsadsdsasaem.out.println(map.get(11));
 		
 	}
 	
